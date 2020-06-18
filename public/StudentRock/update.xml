@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AppName>StudentRock</AppName>
+  <AppVersion>1.4.1.0</AppVersion>
+  <FileExecuteAfter>StudentRock.exe</FileExecuteAfter>
+  <ExecuteTimeout>0</ExecuteTimeout>
+  <TreatErrorAsNotUpdated>false</TreatErrorAsNotUpdated>
+  <PromptUserBeforeAutomaticUpgrade>true</PromptUserBeforeAutomaticUpgrade>
+  <AutoCloseSucceedWindow>true</AutoCloseSucceedWindow>
+  <Desc>Build 3:
+  - 更新「屏幕伪装」功能 修复内存泄漏
+  - 更多更新链接</Desc>
+  <Package>9f9d5a25faef47cf8e93ebd2c46b8e91.zip</Package>
+  <MD5>B6884E2E09DF063B1366D47A01B938D1</MD5>
+  <DeleteFileLimits />
+  <DeleteMethod>None</DeleteMethod>
+  <PackageSize>477614</PackageSize>
+  <ForceUpdate>false</ForceUpdate>
+  <Packages>
+    <PackageInfo>
+      <FilePath>LibStHook.dll</FilePath>
+      <FileSize>116736</FileSize>
+      <Version>1.4.1.0</Version>
+      <PackageHash>BA59A61C5F12665B3EE84AF1ECD9067F</PackageHash>
+      <PackageName>010ee5fe3ee64ef3888fba9d5c10b7cf.zip</PackageName>
+      <PackageSize>65189</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>E2EA3F9ADAD0BF02C798228405CBFFF1</FileHash>
+      <Files>
+        <string>LibStHook.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>RockLoader.exe</FilePath>
+      <FileSize>619008</FileSize>
+      <Version>1.4.1.0</Version>
+      <PackageHash>A4E2C632FB3E4700AC6C6219EFDCF479</PackageHash>
+      <PackageName>62531dec2496405eb952f72105574993.zip</PackageName>
+      <PackageSize>240133</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>0BFADBCB2A2DF0B2F73BAAC712A122AA</FileHash>
+      <Files>
+        <string>RockLoader.exe</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>SimpleUpdater.dll</FilePath>
+      <FileSize>386560</FileSize>
+      <Version>4.3.0.0</Version>
+      <PackageHash>4F41C1711924BA139CB6D8FAF6E4255C</PackageHash>
+      <PackageName>bb94ab6801e7460f9435aad06e4f5d24.zip</PackageName>
+      <PackageSize>148691</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>342F53543866F6406E7BCBCF3A31EF66</FileHash>
+      <Files>
+        <string>SimpleUpdater.dll</string>
+      </Files>
+    </PackageInfo>
+    <PackageInfo>
+      <FilePath>StudentRock.exe</FilePath>
+      <FileSize>84992</FileSize>
+      <Version>1.4.1.0</Version>
+      <PackageHash>73185E4FDFC0939B8910A1E8A8557B8C</PackageHash>
+      <PackageName>4ece1bfc361b4b45839c0a4996856645.zip</PackageName>
+      <PackageSize>23667</PackageSize>
+      <Method>VersionCompare</Method>
+      <VerificationLevel>Size Hash</VerificationLevel>
+      <FileHash>80CBA612884D81D7B60FD522D77B6940</FileHash>
+      <Files>
+        <string>StudentRock.exe</string>
+      </Files>
+    </PackageInfo>
+  </Packages>
+  <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+  <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+  <MustUpdate>false</MustUpdate>
+  <AutoExitCurrentProcess>true</AutoExitCurrentProcess>
+  <AutoEndProcessesWithinAppDir>true</AutoEndProcessesWithinAppDir>
+  <AutoKillProcesses>false</AutoKillProcesses>
+  <RequreAdminstrorPrivilege>false</RequreAdminstrorPrivilege>
+</UpdateInfo>
